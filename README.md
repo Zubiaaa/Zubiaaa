@@ -36,4 +36,4 @@ Here, you'll find repositories ranging from data science projects and tutorials 
 
 Let’s connect and create something impactful together. 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zubiaaa&layout=compact&theme=vision-friendly-dark&langs_count=5&include_all_commits=true&hide=jupyter%20notebook)](https://github.com/Zubiaaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zubiaaa&layout=compact&theme=vision-friendly-dark&langs_count=6&include_all_commits=true&hide=jupyter%20notebook)](https://github.com/Zubiaaa/github-readme-stats)
